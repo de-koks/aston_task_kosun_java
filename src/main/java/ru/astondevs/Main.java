@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int choice = 0;
+        int choice;
 
         // Выбор подпрограммы - запрос числа с проверкой ввода
         while (true) {
